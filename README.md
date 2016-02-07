@@ -14,7 +14,7 @@ Functional programming provides developers with the tools to abstract common col
 
 > For more practice I recommend to check out the original source of this repo: http://reactivex.io/learnrx/
 
-The Array is Javascript's only collection type. Map, filter, and reduce are already exists in Javascript as array methods, however we're going to reimplement these functions as a learning exercise.
+The Array is Javascript's only collection type. Map, filter, and reduce already exist in Javascript as array methods, however you are going to reimplement these functions as a learning exercise.
 
 ### How to run
 
