@@ -1,0 +1,32 @@
+{
+  "name": "fp_exercises",
+  "version": "1.0.0",
+  "description": "A morning challenge for https://github.com/foundersandcoders",
+  "main": "Exercise.js",
+  "scripts": {
+    "test": "./node_modules/.bin/tape ./test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katkelemen/FuncProgMorninChallenge.git"
+  },
+  "keywords": [
+    "functional",
+    "programming",
+    "test",
+    "tape",
+    "array",
+    "methods",
+    "javascript",
+    "node"
+  ],
+  "author": "katkelemen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katkelemen/FuncProgMorninChallenge/issues"
+  },
+  "homepage": "https://github.com/katkelemen/FuncProgMorninChallenge#readme",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  }
+}
