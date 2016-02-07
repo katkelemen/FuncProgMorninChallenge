@@ -1,4 +1,4 @@
-# Functional Programming in Javascript
+## Functional Programming in Javascript
 A morning challenge for https://github.com/foundersandcoders
 
 
@@ -10,11 +10,13 @@ Functional programming provides developers with the tools to abstract common col
 - reduce
 - zip
 
-In this challenge we will only cover map, filter and reduce. For more practice I recommend to check out the original source of this repo: http://reactivex.io/learnrx/
+**In this challenge we will only cover map, filter and reduce.** 
+
+> For more practice I recommend to check out the original source of this repo: http://reactivex.io/learnrx/
 
 The Array is Javascript's only collection type. Map, filter, and reduce are already exists in Javascript as array methods, however we're going to reimplement these functions as a learning exercise.
 
-## How to run
+### How to run
 
 - ``` git clone https://github.com/katkelemen/FuncProgMorninChallenge.git ```
 - ``` npm install ```
