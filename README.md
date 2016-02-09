@@ -26,4 +26,4 @@ The Array is Javascript's only collection type. Map, filter, and reduce already 
 
 Questions:
 - Why do we use "deepEqual" in the tests?
-- What is "throw" at Exercise.js 153:4?
+- What is "throw" at Exercise.js?
